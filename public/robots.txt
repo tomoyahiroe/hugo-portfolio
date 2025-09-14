@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://texify3.michaelneuper.com/sitemap.xml
