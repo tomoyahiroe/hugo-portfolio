@@ -28,7 +28,7 @@ publishDir = "./docs/"
   rss = true                                # show rss icon
 
   # home page profile
-  avatar = '/kinotate.png'                 # gravatar email or image url
+  avatar = 'https://kinotate.com/kinotate.png'                 # gravatar email or image url
   name = 'kinotate'
   bio = 'graduate student of economics'
 
