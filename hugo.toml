@@ -1,80 +1,57 @@
-baseURL = "https://texify3.michaelneuper.com"
+baseURL = "https://kinotate.com"
 disqusShortname = ""
 enableGitInfo = true
 enableRobotsTXT = true
 hasCJKLanguage = true
-languageCode = "en"
+languageCode = "ja"
 rssLimit = 10
-theme = "hugo-texify3"
-title = "TeXify3"
+theme = "paper"
+title = "kinotate"
 
-[pagination]
-pagerSize = 5
-
-[taxonomies]
-tags = "tags"
-categories = "categories"
+[services]
+  [services.disqus]
+    shortname = 'YOUR_DISQUS_SHORTNAME'     # use disqus comments
 
 [params]
-title="TeXify3"
-author = "Michael Neuper"
-description = "TeXify3 - A LaTeX-style hugo theme with the gruvbox color scheme for personal blogging"
-footnote = """
-Powered by  <a class=link href=https://gohugo.io target=_blank rel=noopener>Hugo</a> | 
-Theme <a class=link href=https://github.com/michaelneuper/hugo-texify3 target=_blank rel=noopener>TeXify3</a>
-"""
-customCSS = []
-customJS = []
-dateFormat = "2 January 2006"
-emphasisWithDots = true
-toc = true
-rootFontSize = "105%"
-math = true
-enableDuckDuckGoSearchBox = true
-numberedSubtitles = true
+  # color style
+  color = 'linen'                           # linen, wheat, gray, light
 
-  [params.commentEngine]
-  code = """
-  <script src="https://giscus.app/client.js"
-        data-repo="michaelneuper/website"
-        data-repo-id="R_kgDOIjPNaQ"
-        data-category="General"
-        data-category-id="DIC_kwDOIjPNac4CaklA"
-        data-mapping="pathname"
-        data-strict="0"
-        data-reactions-enabled="1"
-        data-emit-metadata="0"
-        data-input-position="top"
-        data-theme="gruvbox"
-        data-lang="en"
-        data-loading="lazy"
-        crossorigin="anonymous"
-        async>
-  </script>
-  """
+  # header social icons
+  twitter = 'YOUR_TWITTER_ID'               # twitter.com/YOUR_TWITTER_ID
+  github = 'YOUR_GITHUB_ID'                 # github.com/YOUR_GITHUB_ID
+  instagram = 'YOUR_INSTAGRAM_ID'           # instagram.com/YOUR_INSTAGRAM_ID
+  linkedin = 'YOUR_LINKEDIN_ID'             # linkedin.com/in/YOUR_LINKEDIN_ID
+  mastodon = 'YOUR_MASTODON_LINK'           # e.g. 'https://mastodon.instance/@xxx'
+  threads = '@YOUR_THREADS_ID'              # threads.net/@YOUR_THREADS_ID
+  bluesky = 'YOUR_BLUESKY_ID'               # https://bsky.app/profile/YOUR_BLUESKY_ID
+  rss = true                                # show rss icon
 
-  [params.buymeacoffee]
-  code = """
-  <script async data-name="BMC-Widget" 
-        data-cfasync="true" 
-        src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" 
-        data-id="michaelneuper" 
-        data-description="Like what I do? Buy me a coffee!" 
-        data-message="" 
-        data-color="#d79921" 
-        data-position="Right" 
-        data-x_margin="18" 
-        data-y_margin="18"
-        crossorigin="anonymous">
-  </script>
-  """
+  # home page profile
+  avatar = 'GRAVATAR_EMAIL'                 # gravatar email or image url
+  name = 'YOUR_NAME'
+  bio = 'YOUR_BIO'
 
-  [params.sharingbuttons]
-  facebook = true
-  twitter = true
-  email = true
-  linkedin = true
-  reddit = true
-  whatsapp = true
-  hackernews = true
-  telegram = true
+
+  # misc
+  disableHLJS = true                        # disable highlight.js
+  disablePostNavigation = true              # disable post navigation
+  monoDarkIcon = true                       # show monochrome dark mode icon
+  gravatarCdn = 'GRAVATAR_CDN_LINK'         # e.g. 'https://cdn.v2ex.com/gravatar/'
+  math = true                               # enable KaTeX math typesetting globally
+  localKatex = false                        # use local KaTeX js/css instead of CDN
+  graphCommentId = "YOUR_GRAPH_COMMENT_ID"  # use graph comment (disqus alternative)
+  favicon = "favicon.ico"                   # customize the default favicon
+  appleTouchIcon = "apple-touch-icon.png"   # customize the default Apple touch icon
+
+  # RTL supprot
+  direction = "rtl"                         # RTL support for Right-to-left languages
+
+  # giscus
+[params.giscus]
+  repo = 'YOUR_GISCUS_REPO'                 # see https://giscus.app for more details
+  repoId = 'YOUR_GISCUS_REPO_ID'
+  category = 'YOUR__GISCUS_CATEGORY'
+  categoryId = 'YOUR_GISCUS_CATEGORY_ID'
+  mapping = 'pathname'
+  theme = 'light'
+  lang = 'zh-CN'
