@@ -45,7 +45,7 @@ publishDir = "./docs/"
   appleTouchIcon = "apple-touch-icon.png"   # customize the default Apple touch icon
 
   # RTL supprot
-  direction = "rtl"                         # RTL support for Right-to-left languages
+  direction = "ltr"                         # RTL support for Right-to-left languages
 
   # giscus
 [params.giscus]
