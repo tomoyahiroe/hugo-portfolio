@@ -1,6 +1,6 @@
 +++
 date = '2025-09-15T04:18:34+09:00'
-draft = true
+draft = false
 title = '最尤推定法'
 +++
 
