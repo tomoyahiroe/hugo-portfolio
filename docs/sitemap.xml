@@ -2,20 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://tomoyahiroe.github.io/hugo-portfolio/posts/</loc>
-    <lastmod>2025-09-15T04:18:34+09:00</lastmod>
+    <loc>https://kinotate.com/posts/</loc>
+    <lastmod>2025-09-15T04:44:09+09:00</lastmod>
   </url><url>
-    <loc>https://tomoyahiroe.github.io/hugo-portfolio/post/</loc>
+    <loc>https://kinotate.com/post/</loc>
     <lastmod>2025-09-15T02:19:58+09:00</lastmod>
   </url><url>
-    <loc>https://tomoyahiroe.github.io/hugo-portfolio/post/test/</loc>
+    <loc>https://kinotate.com/post/test/</loc>
     <lastmod>2025-09-15T02:19:58+09:00</lastmod>
   </url><url>
-    <loc>https://tomoyahiroe.github.io/hugo-portfolio/</loc>
+    <loc>https://kinotate.com/</loc>
     <lastmod>2025-09-15T02:19:58+09:00</lastmod>
   </url><url>
-    <loc>https://tomoyahiroe.github.io/hugo-portfolio/categories/</loc>
+    <loc>https://kinotate.com/categories/</loc>
   </url><url>
-    <loc>https://tomoyahiroe.github.io/hugo-portfolio/tags/</loc>
+    <loc>https://kinotate.com/tags/</loc>
   </url>
 </urlset>
