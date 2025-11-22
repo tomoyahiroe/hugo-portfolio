@@ -14,8 +14,6 @@ jobs:
   deploy-book:
     runs-on: ubuntu-latest
     env:
-      # カスタムドメイン配信なので BASE_URL は未設定 (空文字)
-      SITE_BASE_URL: ""
       # ここに利用するカスタムドメインを記述してください
       CUSTOM_DOMAIN: kinotate.com
     steps:
