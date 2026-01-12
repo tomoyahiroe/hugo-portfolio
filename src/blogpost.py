@@ -92,10 +92,10 @@ fg.language("ja")
 # Add all my posts to it
 for irow in posts:
     fe = fg.add_entry()
-    fe.id(f"http://chrisholdgraf.com/{irow['path']}")
+    fe.id(f"http://kintoate.com/{irow['path']}")
     fe.published(irow["date"])
     fe.title(irow["title"])
-    fe.link(href=f"http://chrisholdgraf.com/{irow['path']}")
+    fe.link(href=f"http://kinotate.com/{irow['path']}")
     fe.content(content=irow["content"])
 
 # Write an RSS feed with latest posts

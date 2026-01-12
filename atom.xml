@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>http://kinotate.com</id>
   <title>kintotate blog</title>
-  <updated>2025-11-15T09:33:22.372274+00:00</updated>
+  <updated>2026-01-12T15:58:20.846926+00:00</updated>
   <author>
     <name>kinotate</name>
   </author>
@@ -11,11 +11,11 @@
   <logo>http://kinotate.com/_static/kinotate.png</logo>
   <subtitle>kinotate's personal blog about macroeconomics</subtitle>
   <entry>
-    <id>http://chrisholdgraf.com/blog/2025/notion-to-myst</id>
+    <id>http://kintoate.com/blog/2025/notion-to-myst</id>
     <title>Notion から Myst へ部分的に移行する</title>
-    <updated>2025-11-15T09:33:22.372476+00:00</updated>
+    <updated>2026-01-12T15:58:20.847084+00:00</updated>
     <content>Myst の良さを布教します</content>
-    <link href="http://chrisholdgraf.com/blog/2025/notion-to-myst"/>
+    <link href="http://kinotate.com/blog/2025/notion-to-myst"/>
     <published>2025-11-02T00:00:00+00:00</published>
   </entry>
 </feed>
