@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
   <id>http://kinotate.com</id>
   <title>kintotate blog</title>
-  <updated>2026-01-19T06:55:35.962938+00:00</updated>
+  <updated>2026-02-03T08:24:00.818295+00:00</updated>
   <author>
     <name>kinotate</name>
   </author>
@@ -13,17 +13,9 @@
   <entry>
     <id>http://kintoate.com/blog/2025/notion-to-myst</id>
     <title>Notion から Myst へ部分的に移行する</title>
-    <updated>2026-01-19T06:55:35.962990+00:00</updated>
+    <updated>2026-02-03T08:24:00.818328+00:00</updated>
     <content>Myst の良さを布教します</content>
     <link href="http://kinotate.com/blog/2025/notion-to-myst"/>
     <published>2025-11-02T00:00:00+00:00</published>
-  </entry>
-  <entry>
-    <id>http://kintoate.com/blog/2025/note-review-2025</id>
-    <title>正規誤差の仮定，残差ベクトルの内積を分散で割るとカイ二乗分布する，経済学者から見る因果推論</title>
-    <updated>2026-01-19T06:55:35.962970+00:00</updated>
-    <content>感想文３本</content>
-    <link href="http://kinotate.com/blog/2025/note-review-2025"/>
-    <published>2026-01-19T00:00:00+00:00</published>
   </entry>
 </feed>

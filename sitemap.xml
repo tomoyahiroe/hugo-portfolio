@@ -11,9 +11,6 @@
     <loc>http://localhost:3000/blogs</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/blog/2025/note-review-2025</loc>
-  </url>
-  <url>
     <loc>http://localhost:3000/blog/2025/notion-to-myst</loc>
   </url>
 </urlset>

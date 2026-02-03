@@ -12,20 +12,13 @@
       <link>http://kinotate.com</link>
     </image>
     <language>ja</language>
-    <lastBuildDate>Mon, 19 Jan 2026 06:55:35 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Feb 2026 08:24:00 +0000</lastBuildDate>
     <item>
       <title>Notion から Myst へ部分的に移行する</title>
       <link>http://kinotate.com/blog/2025/notion-to-myst</link>
       <description>Myst の良さを布教します</description>
       <guid isPermaLink="false">http://kintoate.com/blog/2025/notion-to-myst</guid>
       <pubDate>Sun, 02 Nov 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>正規誤差の仮定，残差ベクトルの内積を分散で割るとカイ二乗分布する，経済学者から見る因果推論</title>
-      <link>http://kinotate.com/blog/2025/note-review-2025</link>
-      <description>感想文３本</description>
-      <guid isPermaLink="false">http://kintoate.com/blog/2025/note-review-2025</guid>
-      <pubDate>Mon, 19 Jan 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
